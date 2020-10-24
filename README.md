@@ -1,1 +1,1 @@
-# Data-Science-Projects
+# Hi, I am Daniel Peter and I am extremely passionate about machine learning. Simply put, I am more than excited to share some of my data science projects with fellow contributors. Looking forward to crunching data and building powerful models along with contributing and subsequent learning from the GitHub community.
